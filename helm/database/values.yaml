@@ -1,0 +1,5 @@
+password:
+# Available types ["postgresql", "mssql"]
+type: postgresql
+# Storage size (default: 5Gi)
+storage: 5Gi
