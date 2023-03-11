@@ -1,5 +1,5 @@
 # About
-
+Team project. Back-end part manages company's internal registrations for medical procedures, including patient registration, appointment reservation, procedures details.
 
 # Getting Started
 
